@@ -8,7 +8,7 @@ crée un labyrinthe de façon aléatoire dans un shell.
 * args[3]: nombre de secondes d'affichage du labyrinthe complet avant qu'il devienne invisible
 * args[4]: nombre de vies du personnage 
 
-Utilisation: java Laby <hauteur> <largeur> <densite> <duree visible> <nb vies>
+Utilisation: java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 Ex: java Laby 10 20 0.20 10 5
 
 deplacement:
