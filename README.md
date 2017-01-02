@@ -12,7 +12,7 @@ Utilisation: java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 
 Ex: java Laby 10 20 0.20 10 5
 
-deplacement:
+Deplacement
 * d: droite
 * g: gauche
 * b: bas
