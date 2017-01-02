@@ -26,4 +26,4 @@ Ex: java Laby 10 20 0.20 10 5
 * q: quitter le jeux
 * p: nouvelle partie
 * o: active une intelligence artificielle simple
-* v: rend les murs invisibles
+* v: rend les murs visibles/invisibles
