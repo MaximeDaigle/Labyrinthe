@@ -3,7 +3,7 @@
 crée un labyrinthe de façon aléatoire dans un shell.
 
 
-
+##Utilisation
 * args[0]: hauteur du labyrinthe en nombre de cases 
 * args[1]: largeur du labyrinthe en nombre de cases
 * args[2]: densité (entre 0 et 1) des murets
@@ -15,14 +15,14 @@ Utilisation: java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 Ex: java Laby 10 20 0.20 10 5
 
 
-
-Deplacement
+##Commande
+###Deplacement
 * d: droite
 * g: gauche
 * b: bas
 * h: haut
 
-Option
+###Option
 * q: quitter le jeux
 * p: nouvelle partie
 * o: active une intelligence artificielle simple
