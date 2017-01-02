@@ -15,7 +15,7 @@ Utilisation: java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 Ex: java Laby 10 20 0.20 10 5
 
 
-##Commande
+##Comment jouer
 ###Deplacement
 * d: droite
 * g: gauche
