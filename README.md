@@ -5,13 +5,13 @@ crée un labyrinthe de façon aléatoire dans un shell.
 
 ##Utilisation
 
-Utilisation: java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
+java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 
-* args[0]: hauteur du labyrinthe en nombre de cases 
-* args[1]: largeur du labyrinthe en nombre de cases
-* args[2]: densité (entre 0 et 1) des murets
-* args[3]: nombre de secondes d'affichage du labyrinthe complet avant qu'il devienne invisible
-* args[4]: nombre de vies du personnage 
+* hauteur du labyrinthe en nombre de cases 
+* largeur du labyrinthe en nombre de cases
+* densité (entre 0 et 1) des murs
+* nombre de secondes d'affichage du labyrinthe complet avant qu'il devienne invisible
+* nombre de vies du personnage 
 
 Ex: java Laby 10 20 0.20 10 5
 
