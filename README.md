@@ -3,7 +3,7 @@
 crée un labyrinthe de façon aléatoire dans un shell.
 
 
-##Utilisation
+## Utilisation
 
 java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 
@@ -16,14 +16,14 @@ java Laby (hauteur) (largeur) (densite) (duree visible) (nb vies)
 Ex: java Laby 10 20 0.20 10 5
 
 
-##Comment jouer
-###Deplacement
+## Comment jouer
+### Deplacement
 * d: droite
 * g: gauche
 * b: bas
 * h: haut
 
-###Option
+### Option
 * q: quitter le jeux
 * p: nouvelle partie
 * o: active une intelligence artificielle simple
